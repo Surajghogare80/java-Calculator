@@ -1,7 +1,7 @@
 import java.util.*;
 public class conditional {
     public static void main(String args[]){
-     /*
+  
          int age = 22;
         if(age>=18){
             System.out.println("Your r adult");
@@ -9,9 +9,9 @@ public class conditional {
         else{
             System.out.println("Your r not adult");
         }
-      */
+  
 
-      /*
+     
        Scanner sc = new Scanner (System.in);
       int n = sc.nextInt();
 
@@ -21,10 +21,10 @@ public class conditional {
       else{
         System.out.println("Odd");
       }
-       */
+   
 
 
-    /*
+ 
     
     Scanner sc = new Scanner (System.in);
     int income = sc.nextInt();
@@ -41,9 +41,8 @@ public class conditional {
     }
 
     System.out.println("Your tax is:" + Tax);
-    */
 
-    /*
+
      Scanner sc = new Scanner (System.in);
     int A = sc.nextInt();
     int B = sc.nextInt();
@@ -58,17 +57,16 @@ public class conditional {
     else{
         System.out.println("C is largest" + C);
     }
-    */
 
-    /*
+
+
       int a = 10;
      String type = ((a)==0) ? "yes" : "no";
      System.out.println(type);
 
-     */
+    
 
-    /*
-      double temp = 103.5;
+       double temp = 103.5;
      if (temp>100){
         System.out.println("You have a fever ");
      }
@@ -76,9 +74,9 @@ public class conditional {
         System.out.println("you dont have fever");
      }
 
-     */
+     
 
-     /*
+     
       
      Scanner sc = new Scanner (System.in);
 
@@ -108,7 +106,7 @@ public class conditional {
    
 
      }
-      */
+      
 
       Scanner sc = new Scanner (System.in);
       System.out.println("Enter the year");
